@@ -1,0 +1,42 @@
+
+.form-section {
+    padding: 85px 50px;
+    color: white;
+    /* background: indigo; */
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.row {
+    overflow: hidden;
+}
+
+.col-lg-6 {
+    width: 50%;
+    float: left;
+}
+
+.content-area {
+    /* background: yellowgreen; */
+    margin-top: 105px;
+    color: white;
+    padding: 0 50px;
+}
+
+.content-area h5 {
+    color: #E86A0C;
+    margin-bottom: 10px;
+}
+
+.content-area h2 {
+    font-size: 32px;
+    margin-bottom: 25px;
+    line-height: 1.4;
+}
+
+.content-area p {
+    font-size: 14px;
+}
