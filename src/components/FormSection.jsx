@@ -8,7 +8,7 @@ const FormSection = () => {
         <div className="container">
             <div className="row">
                 <div className="col-lg-6">
-                <div className="content-area">
+                    <div className="content-area">
                         <h5>Book An Appointment</h5>
                         <h2>Discuss our Services or request a Flooring Estimate today</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur optio quod odit neque</p>
